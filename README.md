@@ -191,9 +191,9 @@ Stay tuned — Marcus is evolving. 🛡️⚡
 
 Special thanks to my amazing teammates for their outstanding effort, collaboration, and technical excellence throughout this journey 💙
 
-- 👨‍💻 [🔎☠️Erfan Sadeghi☠️🔎](https://github.com/erfan-sadeghiii)
-- 👨‍💻 [📏🤖Taha Elahibakhsh🤖📏](https://github.com/tahaElahibakhsh)
-- 👨‍💻 [🔥❤️Parham Ghorbani❤️🔥](https://github.com/AlameBarham)
+-  [🔎☠️Erfan Sadeghi☠️🔎](https://github.com/erfan-sadeghiii)
+-  [📏🤖Taha Elahibakhsh🤖📏](https://github.com/tahaElahibakhsh)
+-  [🔥❤️Parham Ghorbani❤️🔥](https://github.com/AlameBarham)
 
 
 Team **Marcus** will keep pushing the boundaries of AI Security 🚀
