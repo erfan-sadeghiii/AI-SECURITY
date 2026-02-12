@@ -191,7 +191,7 @@ Stay tuned — Marcus is evolving. 🛡️⚡
 
 Special thanks to my amazing teammates for their outstanding effort, collaboration, and technical excellence throughout this journey 💙
 
--  [🔎☠️Erfan Sadeghi☠️🔎](https://github.com/erfan-sadeghiii)
+-  [🔎☠️Mohhamad Ali Mohammadinia☠️🔎](https://github.com/phoenix-110-135)
 -  [📏🤖Taha Elahibakhsh🤖📏](https://github.com/tahaElahibakhsh)
 -  [🔥❤️Parham Ghorbani❤️🔥](https://github.com/AlameBarham)
 
